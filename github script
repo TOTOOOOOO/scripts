@@ -1,0 +1,1 @@
+git config --global alias.hist 'git log --pretty=format:"%h %s" --graph'
