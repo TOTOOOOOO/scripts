@@ -2,4 +2,6 @@
 
 sudo apt-get update
 sudo apt install g++
-
+sudo apt install git
+git config --global user.name "Vladan"
+git config --global user.email "vladanmarkov00@gmail.com"
