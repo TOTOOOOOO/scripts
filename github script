@@ -1,1 +1,3 @@
 git config --global alias.hist 'git log --pretty=format:"%h %s" --graph'
+git config --global user.email "vladanmarkov00@gmail.com"
+git config --global user.name "Vladan"
